@@ -1,4 +1,6 @@
-#Hello, World!
-Я учусь в нетологии
+# Hello, World!
+
+Hello netology
+
 21.08.25
 
